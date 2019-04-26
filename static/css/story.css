@@ -4,9 +4,11 @@ h3,
 h4,
 .sans-serif {
   font-family: 'Spectral', Georgia, Times, serif, 'Quattrocento Sans', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+  
 }
 body article {
   font-family: 'Spectral', Georgia, Times, serif;
+  text-align: justify;
 }
 @media only screen and (max-width: 30em) {
   body article p,
@@ -209,6 +211,9 @@ body.feature-fignum table caption::before {
 }
 .math {
   font-size: 1rem;
+}
+.about-the-author {
+  text-align: justify;
 }
 .about-the-author img {
   float: left;
@@ -416,4 +421,7 @@ img[src~="3dbook"] {
 }
 .hljs-link {
   text-decoration: underline;
+}
+.center{
+  font-family: 'Spectral', Georgia, Times, serif;
 }
