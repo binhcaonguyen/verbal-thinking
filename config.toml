@@ -1,0 +1,40 @@
+# Site settings
+baseurl = "https://binhcaonguyen.github.io/"
+languageCode = "en-us"
+title = "The Fine Art Of Small Talk"
+paginate = 5
+buildFuture = true
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+publishDir = "binhcaonguyen.github.io"
+
+# [[menu.social]]
+#   name = "GitHub"
+#   title = "fab fa-github-square"
+#   url = "https://github.com/xaprb/story/"
+
+# [[menu.main]]
+#   name = "Talks"
+#   title = "Talks"
+#   url = "/talks/"
+
+# [[menu.main]]
+#   name = "Slides"
+#   title = "Slides"
+#   url = "/slides/"
+
+[[menu.main]]
+  name = "Mục lục"
+  title = "Archives"
+  url = "/archives/"
+
+[params]
+  author = "Binh Cao"
+  classes = []
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
