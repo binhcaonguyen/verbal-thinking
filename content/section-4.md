@@ -2,13 +2,13 @@
 author: Binh Cao
 title: Duy trì cuộc trò chuyện
 url: /section-4
-date: "2018-08-29"
+date: "2019-04-23"
 description: "With Story, you can define global and per-item author profiles/biographies."
 image: "img/unsplash-photos-TzMi5Ov7QeM.jpg"
 credit: "https://unsplash.com/photos/TzMi5Ov7QeM"
 thumbnail: "img/unsplash-photos-TzMi5Ov7QeM.tn-500x500.jpg"
 categories:
-- Demo
+
 ---
 Khi đã bắt đầu cuộc trò chuyện, bạn trở nên lúng túng và chỉ đưa ra nhận xét không. Nếu chỉ là những lời nhận xét thôi sẽ làm cho cuộc trò chuyện bế tắc, không biết theo hướng nào hay có thể lại trở về với vị trí ban đầu. 
 

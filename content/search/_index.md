@@ -1,7 +1,7 @@
 ---
 layout: search
 url: /search/
-title: Search
+title: Tìm kiếm
 classes:
 - feature-nosubtitle
 - feature-nohdr

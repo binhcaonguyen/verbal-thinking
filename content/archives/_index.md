@@ -1,7 +1,7 @@
 ---
 layout: archives
 url: /archives/
-title: Archives
+title: Mục lục
 classes:
 - feature-nosubtitle
 - feature-nohdr

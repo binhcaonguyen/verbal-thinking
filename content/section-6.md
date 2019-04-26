@@ -1,13 +1,13 @@
 ---
 title: Những nhân tố gây thiện cảm
-date: "2018-08-21"
+date: "2019-04-21"
 url: "/section-6"
 description: "With Story, your site will have built-in search with no external dependencies."
 image: "img/unsplash-photos-4zxSWESyZio.jpg"
 credit: "https://unsplash.com/photos/4zxSWESyZio"
 thumbnail: "img/unsplash-photos-4zxSWESyZio.tn-500x500.jpg"
 categories:
-- Demo
+
 ---
 Dưới đây là cách thức để xây dựng kỹ năng giao tiếp giúp bạn thành công trong mọi mối quan hệ kinh doanh.
 

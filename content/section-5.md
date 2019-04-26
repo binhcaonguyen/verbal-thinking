@@ -1,6 +1,6 @@
 ---
 title: Lịch sự rời khỏi cuộc trò chuyện
-date: "2018-08-22"
+date: "2019-04-22"
 url: "/section-5"
 description: "This article shows you how to enhance your images and tables with features such as captions and alternative stylings."
 credit: "https://unsplash.com/photos/vHnVtLK8rCc"
@@ -13,7 +13,7 @@ classes:
 - feature-fignum
 - feature-tablecaption
 categories:
-- Demo
+
 ---
 Nếu bạn muốn dừng cuộc nói chuyện vì bất cứ lý do gì thì bạn nên rút lui lịch sự và không làm tổn thương lòng tự trọng của người khác. Tôi nhận thấy ngời ta chỉ duy trì cuộc trò chuyện lâu hơn cần thiết vì hai lý do sau: họ đang bị kẹt, nhất là hội thoại chỉ có hai người, hoặc họ đang có một cuộc trò chuyện quá dễ chịu. Nhưng nếu bạn tham dự một buổi tiệc hay một cuộc gặp mặt của giới chuyên mô và mục tiêu của bạn là gặp gỡ mọi người, bạn phải dũng cảm rời bỏ đối thoại nhằm hoàn thành mục tiêu của mình. Nhưng hãy thực hiện sao cho hợp lý, một lời tạm biệt khéo léo sẽ thắt chặt thêm mối quan hệ của bạn.
 

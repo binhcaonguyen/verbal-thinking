@@ -1,6 +1,6 @@
 ---
 title: Mở đầu cuộc trò chuyện
-date: "2018-08-30"
+date: "2019-04-24"
 url: "/section-3"
 description: "Story comes with a lot of power, but it's all configurable: almost every extra feature is optional."
 credit: "https://unsplash.com/photos/QRkew0KwXSM"
@@ -8,7 +8,7 @@ image: "img/unsplash-photos-QRkew0KwXSM.jpg"
 thumbnail: img/unsplash-photos-QRkew0KwXSM.tn-500x500.jpg
 classes:
 categories:
-- Demo
+
 ---
 Lão Tử có một câu rất hay mà mình khá tâm đắc đó là: “Hành trình vạn dặm bắt đầu từ một bước chân.” Đúng vậy, để duy trì và hoàn thành trọn vẹn cuộc trò chuyện, mình muốn nhấn mạnh khoảnh khắc trước khi bắt đầu giao tiếp hay gọi một cách kĩ thuật là setup môi trường trò chuyện, chẳng hạn như mình có nên chủ động hay nhường cho người kia, đề tài nào hợp lí để tạo ấn tượng trong lần gặp đầu,… từ đó, chúng ta dễ dàng tạo bước đệm làm cho cuộc trò chuyện được duy trì một cách tự nhiên trơn tru cho đến khi kết thúc.
 
